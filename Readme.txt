@@ -1,1 +1,1 @@
-#I will develope hadoop proj for beginners.
+I will develope hadoop proj for beginners.
