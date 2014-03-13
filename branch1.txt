@@ -1,3 +1,2 @@
 This file exists in branch 1
-branch1 merged in master
 
