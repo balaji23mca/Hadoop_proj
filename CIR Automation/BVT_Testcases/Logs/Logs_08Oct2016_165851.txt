@@ -1,0 +1,135 @@
+**********************************************************************************************************
+Execution Log Report 
+Project Name : STAGECIR
+Suite : Smoke
+Date Timestamp Created: 08-Oct-2016 16:58:51
+**********************************************************************************************************
+
+Log Path  :./Logs/Logs_08Oct2016_165851.txt
+
+***********************************  Reading Object Repository Sheet  ************************************
+
+Object Repository Sheet1 - Row Count: 26
+
+Homepage_Keymetrics - Xpath - //td[text() ='Key Metrics'] - Object Repository Map Value: [Xpath, //td[text() ='Key Metrics']]
+
+Keymetrics_NSRbyfunction - Xpath - //div[@class='QvGraph']/parent::div/preceding-sibling::div[@title = 'NSR by Function'] - Object Repository Map Value: [Xpath, //div[@class='QvGraph']/parent::div/preceding-sibling::div[@title = 'NSR by Function']]
+
+Myclient - Xpath - //td[text() ='My Client'] - Object Repository Map Value: [Xpath, //td[text() ='My Client']]
+
+Myclient_NSRbyfunction - Xpath - //div[@title ='NSR by Function']/following-sibling::div - Object Repository Map Value: [Xpath, //div[@title ='NSR by Function']/following-sibling::div]
+
+Engagement - Xpath - //td[text() ='Engagement'] - Object Repository Map Value: [Xpath, //td[text() ='Engagement']]
+
+Engagement_Flex_Errormessage - Xpath - //div[@title='Current selections exceed the maximum amount that can be displayed in the table. Please use the filters on the left to narrow your selection.'] - Object Repository Map Value: [Xpath, //div[@title='Current selections exceed the maximum amount that can be displayed in the table. Please use the filters on the left to narrow your selection.']]
+
+Opportunity - Xpath - //td[text()='Opportunity'] - Object Repository Map Value: [Xpath, //td[text()='Opportunity']]
+
+Opportunity_GlobalFootprint - Xpath - //div[@title='Global Footprint by Region']/following-sibling::div - Object Repository Map Value: [Xpath, //div[@title='Global Footprint by Region']/following-sibling::div]
+
+Countrysrvicesgroups - Xpath - //td[text()='Country Services Groups'] - Object Repository Map Value: [Xpath, //td[text()='Country Services Groups']]
+
+Countrysrvicesgroups_NSRGlobalFootprint - Xpath - //div[text()='NSR Global Footprint by Region'] - Object Repository Map Value: [Xpath, //div[text()='NSR Global Footprint by Region']]
+
+Whitespace - Xpath - //td[text()='Whitespace'] - Object Repository Map Value: [Xpath, //td[text()='Whitespace']]
+
+Whitespace_NSRbyFunction - Xpath - //div[text()='NSR by Function'] - Object Repository Map Value: [Xpath, //div[text()='NSR by Function']]
+
+Detailed - Xpath - //td[text()='Detailed'] - Object Repository Map Value: [Xpath, //td[text()='Detailed']]
+
+Detailed_Revenueplan - Xpath - //td[text()='Revenue Plan'] - Object Repository Map Value: [Xpath, //td[text()='Revenue Plan']]
+
+ -  -  - Object Repository Map Value: [, ]
+
+ -  -  - Object Repository Map Value: [, ]
+
+ -  -  - Object Repository Map Value: [, ]
+
+ -  -  - Object Repository Map Value: [, ]
+
+ -  -  - Object Repository Map Value: [, ]
+
+ -  -  - Object Repository Map Value: [, ]
+
+ -  -  - Object Repository Map Value: [, ]
+
+ -  -  - Object Repository Map Value: [, ]
+
+ -  -  - Object Repository Map Value: [, ]
+
+ -  -  - Object Repository Map Value: [, ]
+
+ -  -  - Object Repository Map Value: [, ]
+
+ -  -  - Object Repository Map Value: [, ]
+
+**************************************  Reading Test Data Sheet  *****************************************
+
+Test Data Sheet1 - TestData - Row Count: 2
+
+STAGECIR_URL_Global - https://stagecir.deloitteresources.com/QvAJAXZfc/opendoc.htm?document=Public%2FGCI-CIR_DistributedFile_s3_vLoad%3DGLOBAL.qvw&host=QVS%40StageCluster - Test Data Map Value: https://stagecir.deloitteresources.com/QvAJAXZfc/opendoc.htm?document=Public%2FGCI-CIR_DistributedFile_s3_vLoad%3DGLOBAL.qvw&host=QVS%40StageCluster
+
+STAGECIR_URL_LCSP - https://stagecir.deloitteresources.com/QvAJAXZfc/opendoc.htm?document=Public%2FGCI-CIR_DistributedFile_s3_vLoad%3DLCSP.qvw&host=QVS%40StageCluster - Test Data Map Value: https://stagecir.deloitteresources.com/QvAJAXZfc/opendoc.htm?document=Public%2FGCI-CIR_DistributedFile_s3_vLoad%3DLCSP.qvw&host=QVS%40StageCluster
+
+
+************************************  Reading Execution Sheet  *******************************************
+
+Execution - Smoke Sheet - Row Count: 8
+
+Access_Global - NO -  Execution Map Value: [BVT_Testcases, Access_Global, NO]
+
+Access_LCSP - YES -  Execution Map Value: [BVT_Testcases, Access_LCSP, YES]
+
+TestCase3 - NO -  Execution Map Value: [ClientCreation, TestCase3, NO]
+
+TestCase4 - NO -  Execution Map Value: [ClientCreation, TestCase4, NO]
+
+ReadRecursiveData - NO -  Execution Map Value: [ClientCreation, ReadRecursiveData, NO]
+
+testCase6 - NO -  Execution Map Value: [ClientCreation, testCase6, NO]
+
+testCase7 - NO -  Execution Map Value: [ClientCreation, testCase7, NO]
+
+testCase8 - NO -  Execution Map Value: [ClientCreation, testCase8, NO]
+
+***************************************  Test Execution Started  *****************************************
+
+Browser : ie
+Suite : Smoke
+Test Case : testCases.BVT_Testcases
+Method Name: Access_LCSP
+[TestNG] Running:
+  Command line suite
+
+Selected Locator Type: Xpath
+Selected Locator Value: //td[text() ='Engagement']
+Object visible
+Selected Locator Type: Xpath
+Selected Locator Value: //td[text() ='Engagement']
+Selected Locator Type: Xpath
+Selected Locator Value: //div[@title='Current selections exceed the maximum amount that can be displayed in the table. Please use the filters on the left to narrow your selection.']
+Wait Until Method Exception Message: org.openqa.selenium.TimeoutException: Timed out after 120 seconds waiting for visibility of element located by By.xpath: //div[@title='Current selections exceed the maximum amount that can be displayed in the table. Please use the filters on the left to narrow your selection.']
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'USHYDASANKAR2', ip: '192.168.1.100', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, ie.enableFullPageScreenshot=true, enablePersistentHover=true, ie.forceCreateProcessApi=false, ie.forceShellWindowsApi=false, pageLoadStrategy=normal, ignoreZoomSetting=true, ie.fileUploadDialogTimeout=3000, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:30321/, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 4c47c965-6984-44d8-a7dc-cc4ce6f30236
+Selected Locator Type: Xpath
+Selected Locator Value: //td[text()='Opportunity']
+Object visible
+Selected Locator Type: Xpath
+Selected Locator Value: //td[text()='Opportunity']
+Selected Locator Type: Xpath
+Selected Locator Value: //div[@title='Global Footprint by Region']/following-sibling::div
+Object visible
+
+===============================================
+Smoke
+Total tests run: 1, Failures: 0, Skips: 0
+===============================================
+
+Detailed report path for testcase : ./Detailed Reports/08Oct2016_165852/08Oct2016_170130_Access_LCSP.html
+
+Summary Report Path  :./Detailed Reports/08Oct2016_165852/SummaryReport_STAGECIR_08Oct2016_165852.html
+
+***************************************  Test Execution Completed  ***************************************

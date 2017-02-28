@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Smoke" duration-ms="56573" started-at="2016-10-15T16:31:57Z" finished-at="2016-10-15T16:32:53Z">
+    <groups>
+    </groups>
+    <test name="BVT_Testcases" duration-ms="56573" started-at="2016-10-15T16:31:57Z" finished-at="2016-10-15T16:32:53Z">
+      <class name="testCases.BVT_Testcases">
+        <test-method status="PASS" signature="startBrowser(java.lang.String)[pri:0, instance:testCases.BVT_Testcases@10e31a9a]" name="startBrowser" is-config="true" duration-ms="2365" started-at="2016-10-15T22:01:57Z" finished-at="2016-10-15T22:01:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ie]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="Access_Global()[pri:0, instance:testCases.BVT_Testcases@10e31a9a]" name="Access_Global" duration-ms="51170" started-at="2016-10-15T22:01:59Z" finished-at="2016-10-15T22:02:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Access_Global -->
+        <test-method status="PASS" signature="stopBrowser()[pri:0, instance:testCases.BVT_Testcases@10e31a9a]" name="stopBrowser" is-config="true" duration-ms="3028" started-at="2016-10-15T22:02:50Z" finished-at="2016-10-15T22:02:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopBrowser -->
+      </class> <!-- testCases.BVT_Testcases -->
+    </test> <!-- BVT_Testcases -->
+  </suite> <!-- Smoke -->
+</testng-results>

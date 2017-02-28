@@ -1,0 +1,292 @@
+**********************************************************************************************************
+Execution Log Report 
+Project Name : STAGECIR
+Suite : Smoke
+Date Timestamp Created: 08-Oct-2016 16:08:34
+**********************************************************************************************************
+
+Log Path  :./Logs/Logs_08Oct2016_160834.txt
+
+***********************************  Reading Object Repository Sheet  ************************************
+
+Object Repository Sheet1 - Row Count: 26
+
+Homepage_Keymetrics - Xpath - //td[text() ='Key Metrics'] - Object Repository Map Value: [Xpath, //td[text() ='Key Metrics']]
+
+Keymetrics_NSRbyfunction - Xpath - //div[@class='QvGraph']/parent::div/preceding-sibling::div[@title = 'NSR by Function'] - Object Repository Map Value: [Xpath, //div[@class='QvGraph']/parent::div/preceding-sibling::div[@title = 'NSR by Function']]
+
+Myclient - Xpath - //td[text() ='My Client'] - Object Repository Map Value: [Xpath, //td[text() ='My Client']]
+
+Myclient_NSRbyfunction - Xpath - //div[@title ='NSR by Function']/following-sibling::div - Object Repository Map Value: [Xpath, //div[@title ='NSR by Function']/following-sibling::div]
+
+Engagement - Xpath - //td[text() ='Engagement'] - Object Repository Map Value: [Xpath, //td[text() ='Engagement']]
+
+Engagement_Flex_Errormessage - Xpath - //div[@title='Current selections exceed the maximum amount that can be displayed in the table. Please use the filters on the left to narrow your selection.'] - Object Repository Map Value: [Xpath, //div[@title='Current selections exceed the maximum amount that can be displayed in the table. Please use the filters on the left to narrow your selection.']]
+
+Opportunity - Xpath - //td[text()='Opportunity'] - Object Repository Map Value: [Xpath, //td[text()='Opportunity']]
+
+Opportunity_GlobalFootprint - Xpath - //div[@title='Global Footprint by Region']/following-sibling::div - Object Repository Map Value: [Xpath, //div[@title='Global Footprint by Region']/following-sibling::div]
+
+Countrysrvicesgroups - Xpath - //td[text()='Country Services Groups'] - Object Repository Map Value: [Xpath, //td[text()='Country Services Groups']]
+
+Countrysrvicesgroups_NSRGlobalFootprint - Xpath - //div[text()='NSR Global Footprint by Region'] - Object Repository Map Value: [Xpath, //div[text()='NSR Global Footprint by Region']]
+
+Whitespace - Xpath - //td[text()='Whitespace'] - Object Repository Map Value: [Xpath, //td[text()='Whitespace']]
+
+Whitespace_NSRbyFunction - Xpath - //div[text()='NSR by Function'] - Object Repository Map Value: [Xpath, //div[text()='NSR by Function']]
+
+Detailed - Xpath - //td[text()='Detailed'] - Object Repository Map Value: [Xpath, //td[text()='Detailed']]
+
+Detailed_Revenueplan - Xpath - //td[text()='Revenue Plan'] - Object Repository Map Value: [Xpath, //td[text()='Revenue Plan']]
+
+ -  -  - Object Repository Map Value: [, ]
+
+ -  -  - Object Repository Map Value: [, ]
+
+ -  -  - Object Repository Map Value: [, ]
+
+ -  -  - Object Repository Map Value: [, ]
+
+ -  -  - Object Repository Map Value: [, ]
+
+ -  -  - Object Repository Map Value: [, ]
+
+ -  -  - Object Repository Map Value: [, ]
+
+ -  -  - Object Repository Map Value: [, ]
+
+ -  -  - Object Repository Map Value: [, ]
+
+ -  -  - Object Repository Map Value: [, ]
+
+ -  -  - Object Repository Map Value: [, ]
+
+ -  -  - Object Repository Map Value: [, ]
+
+Object Repository Sheet2 - Row Count: 67
+
+LNI_Calendar - Xpath - //span[@class='menu-item-text' and text()='Calendar'] - Object Repository Map Value: [Xpath, //span[@class='menu-item-text' and text()='Calendar']]
+
+LNI_Task - Xpath - //span[@class='menu-item-text' and text()='Tasks'] - Object Repository Map Value: [Xpath, //span[@class='menu-item-text' and text()='Tasks']]
+
+LNI_ClientDocumentLib - Xpath - //span[@class='menu-item-text' and text()='Client Document Library'] - Object Repository Map Value: [Xpath, //span[@class='menu-item-text' and text()='Client Document Library']]
+
+LNI_DeloitteDocument Lib - Xpath - //span[@class='menu-item-text' and text()='Deloitte Document Library'] - Object Repository Map Value: [Xpath, //span[@class='menu-item-text' and text()='Deloitte Document Library']]
+
+LNI_Inbox - Xpath - //span[@class='menu-item-text' and text()='Inbox'] - Object Repository Map Value: [Xpath, //span[@class='menu-item-text' and text()='Inbox']]
+
+LNI_Team - Xpath - //span[@class='menu-item-text' and text()='Team'] - Object Repository Map Value: [Xpath, //span[@class='menu-item-text' and text()='Team']]
+
+LNI_Phases - Xpath - //span[@class='menu-item-text' and text()='Phases'] - Object Repository Map Value: [Xpath, //span[@class='menu-item-text' and text()='Phases']]
+
+LNI_Recyclebin - Xpath - //span[@class='ms-splinkbutton-text' and text()='Recycle Bin'] - Object Repository Map Value: [Xpath, //span[@class='ms-splinkbutton-text' and text()='Recycle Bin']]
+
+LNI_Calendar - Xpath - //span[@class='menu-item-text' and text()='Calendar'] - Object Repository Map Value: [Xpath, //span[@class='menu-item-text' and text()='Calendar']]
+
+Calendar_Add - Xpath - abc - Object Repository Map Value: [Xpath, abc]
+
+Calendar_Title - Xpath - //input[@title='Title Required Field'] - Object Repository Map Value: [Xpath, //input[@title='Title Required Field']]
+
+Calendar_Location - Xpath - //input[@title='Location'] - Object Repository Map Value: [Xpath, //input[@title='Location']]
+
+Calendar_StartDate - Xpath - //input[@id='ctl00_ctl47_g_6fbb08c3_4515_49c3_a929_ce5f0f4f5965_ctl00_ctl05_ctl02_ctl00_ctl00_ctl04_ctl00_ctl00_DateTimeField_DateTimeFieldDate'] - Object Repository Map Value: [Xpath, //input[@id='ctl00_ctl47_g_6fbb08c3_4515_49c3_a929_ce5f0f4f5965_ctl00_ctl05_ctl02_ctl00_ctl00_ctl04_ctl00_ctl00_DateTimeField_DateTimeFieldDate']]
+
+Calendar_EndDate - Xpath - //input[@id='ctl00_ctl47_g_6fbb08c3_4515_49c3_a929_ce5f0f4f5965_ctl00_ctl05_ctl03_ctl00_ctl00_ctl04_ctl00_ctl00_DateTimeField_DateTimeFieldDate'] - Object Repository Map Value: [Xpath, //input[@id='ctl00_ctl47_g_6fbb08c3_4515_49c3_a929_ce5f0f4f5965_ctl00_ctl05_ctl03_ctl00_ctl00_ctl04_ctl00_ctl00_DateTimeField_DateTimeFieldDate']]
+
+Calendar_Desc - Xpath - //textarea[@title='Description'] - Object Repository Map Value: [Xpath, //textarea[@title='Description']]
+
+Calendar_Category - Xpath - //select[@name='ctl00$ctl47$g_6fbb08c3_4515_49c3_a929_ce5f0f4f5965$ctl00$ctl05$ctl05$ctl00$ctl00$ctl04$ctl00$DropDownChoice'] - Object Repository Map Value: [Xpath, //select[@name='ctl00$ctl47$g_6fbb08c3_4515_49c3_a929_ce5f0f4f5965$ctl00$ctl05$ctl05$ctl00$ctl00$ctl04$ctl00$DropDownChoice']]
+
+Calendar_Save - Xpath - //input[@value='Save'] - Object Repository Map Value: [Xpath, //input[@value='Save']]
+
+LNI_Home - Xpath - //span[@class='menu-item-text' and text()='Home'] - Object Repository Map Value: [Xpath, //span[@class='menu-item-text' and text()='Home']]
+
+LNI_Task - Xpath - //span[@class='menu-item-text' and text()='Tasks'] - Object Repository Map Value: [Xpath, //span[@class='menu-item-text' and text()='Tasks']]
+
+Task_NewItem - Xpath - //span[text()='new task'] - Object Repository Map Value: [Xpath, //span[text()='new task']]
+
+Task_TaskName - Xpath - //input[@id='Title_fa564e0f-0c70-4ab9-b863-0177e6ddd247_$TextField'] - Object Repository Map Value: [Xpath, //input[@id='Title_fa564e0f-0c70-4ab9-b863-0177e6ddd247_$TextField']]
+
+Task_TaskStatus - Xpath - //select[@title='Task Status'] - Object Repository Map Value: [Xpath, //select[@title='Task Status']]
+
+Task_Comments - Xpath - //textarea[@id='DTiNewComments_bf2a1ce1-8ef9-4435-88a4-8253da13c39c_$TextField'] - Object Repository Map Value: [Xpath, //textarea[@id='DTiNewComments_bf2a1ce1-8ef9-4435-88a4-8253da13c39c_$TextField']]
+
+Task_StartDate - Xpath - //input[@id='StartDate_64cd368d-2f95-4bfc-a1f9-8d4324ecb007_$DateTimeFieldDate'] - Object Repository Map Value: [Xpath, //input[@id='StartDate_64cd368d-2f95-4bfc-a1f9-8d4324ecb007_$DateTimeFieldDate']]
+
+Task_DueDate - Xpath - //input[@id='DueDate_cd21b4c2-6841-4f9e-a23a-738a65f99889_$DateTimeFieldDate'] - Object Repository Map Value: [Xpath, //input[@id='DueDate_cd21b4c2-6841-4f9e-a23a-738a65f99889_$DateTimeFieldDate']]
+
+Task_DateComplete - Xpath - //input[@id='DateCompleted_24bfa3c2-e6a0-4651-80e9-3db44bf52147_$DateTimeFieldDate'] - Object Repository Map Value: [Xpath, //input[@id='DateCompleted_24bfa3c2-e6a0-4651-80e9-3db44bf52147_$DateTimeFieldDate']]
+
+Task_AssignedTo - Xpath - //span[@id='AssignedTo_53101f38-dd2e-458c-b245-0c236cc13d1a_$ClientPeoplePicker_InitialHelpText'] - Object Repository Map Value: [Xpath, //span[@id='AssignedTo_53101f38-dd2e-458c-b245-0c236cc13d1a_$ClientPeoplePicker_InitialHelpText']]
+
+Task_SelectAssignedTo - Xpath - //a[@data-sp-optionposition='0'] - Object Repository Map Value: [Xpath, //a[@data-sp-optionposition='0']]
+
+Task_Save - Xpath - //input[@id='ctl00_ctl47_g_02abdabb_736a_431c_9072_b0096efac02d_ctl00_toolBarTbl_RightRptControls_ctl00_ctl00_diidIOSaveItem'] - Object Repository Map Value: [Xpath, //input[@id='ctl00_ctl47_g_02abdabb_736a_431c_9072_b0096efac02d_ctl00_toolBarTbl_RightRptControls_ctl00_ctl00_diidIOSaveItem']]
+
+LNI_Home - Xpath - //span[@class='menu-item-text' and text()='Home'] - Object Repository Map Value: [Xpath, //span[@class='menu-item-text' and text()='Home']]
+
+LNI_ClientDocumentLib - Xpath - //span[@class='menu-item-text' and text()='Client Document Library'] - Object Repository Map Value: [Xpath, //span[@class='menu-item-text' and text()='Client Document Library']]
+
+CDL_NewDocument - Xpath - //span[text()='new document'] - Object Repository Map Value: [Xpath, //span[text()='new document']]
+
+CDL_ClkUpload - Xpath - //input[@name='ctl00$PlaceHolderMain$UploadDocumentSection$ctl05$InputFile'] - Object Repository Map Value: [Xpath, //input[@name='ctl00$PlaceHolderMain$UploadDocumentSection$ctl05$InputFile']]
+
+CDL_EnterPath - Xpath - abc - Object Repository Map Value: [Xpath, abc]
+
+CDL_VersionDescription - Xpath - //textarea[@id='ctl00_PlaceHolderMain_VersionCommentSection_ctl01_CheckInComment'] - Object Repository Map Value: [Xpath, //textarea[@id='ctl00_PlaceHolderMain_VersionCommentSection_ctl01_CheckInComment']]
+
+CDL_ClickOK - Xpath - //input[@id='ctl00_PlaceHolderMain_ctl03_RptControls_btnOK'] - Object Repository Map Value: [Xpath, //input[@id='ctl00_PlaceHolderMain_ctl03_RptControls_btnOK']]
+
+CDL_Year - Xpath - //div[@id='DTiTaxYear_$containereditableRegion'] - Object Repository Map Value: [Xpath, //div[@id='DTiTaxYear_$containereditableRegion']]
+
+CDL_SelectYear - Xpath - //span[@class='suggestion-match-text'] - Object Repository Map Value: [Xpath, //span[@class='suggestion-match-text']]
+
+CDL_Reference - Xpath - //input[@id='DTiRef_894db15e-58e4-49fe-af59-86be4a4bc383_$TextField'] - Object Repository Map Value: [Xpath, //input[@id='DTiRef_894db15e-58e4-49fe-af59-86be4a4bc383_$TextField']]
+
+CDL_Description - Xpath - //textarea[@id='DTiDescription_d13f17de-9637-45a4-9778-d50d1c043693_$TextField'] - Object Repository Map Value: [Xpath, //textarea[@id='DTiDescription_d13f17de-9637-45a4-9778-d50d1c043693_$TextField']]
+
+CDL_DocumentType - Xpath - //select[@id='DocumentType_fa54d55b-7eb8-46c9-953b-43ee3039cc9a_$LookupField'] - Object Repository Map Value: [Xpath, //select[@id='DocumentType_fa54d55b-7eb8-46c9-953b-43ee3039cc9a_$LookupField']]
+
+CDL_Save - Xpath - //input[@id='ctl00_ctl47_g_9feb4599_38d3_404c_8e10_8507618953a3_ctl00_ctl02_ctl00_toolBarTbl_RightRptControls_ctl00_ctl00_diidIOSaveItem'] - Object Repository Map Value: [Xpath, //input[@id='ctl00_ctl47_g_9feb4599_38d3_404c_8e10_8507618953a3_ctl00_ctl02_ctl00_toolBarTbl_RightRptControls_ctl00_ctl00_diidIOSaveItem']]
+
+LNI_Home - Xpath - //span[@class='menu-item-text' and text()='Home'] - Object Repository Map Value: [Xpath, //span[@class='menu-item-text' and text()='Home']]
+
+LNI_DeloitteDocument Lib - Xpath - //span[@class='menu-item-text' and text()='Deloitte Document Library'] - Object Repository Map Value: [Xpath, //span[@class='menu-item-text' and text()='Deloitte Document Library']]
+
+DDL_NewDocument - Xpath - //span[text()='new document'] - Object Repository Map Value: [Xpath, //span[text()='new document']]
+
+DDL_ClkUpload - Xpath - //input[@name='ctl00$PlaceHolderMain$UploadDocumentSection$ctl05$InputFile'] - Object Repository Map Value: [Xpath, //input[@name='ctl00$PlaceHolderMain$UploadDocumentSection$ctl05$InputFile']]
+
+DDL_EnterPath - Xpath - abc - Object Repository Map Value: [Xpath, abc]
+
+DDL_VersionDescription - Xpath - //textarea[@id='ctl00_PlaceHolderMain_VersionCommentSection_ctl01_CheckInComment'] - Object Repository Map Value: [Xpath, //textarea[@id='ctl00_PlaceHolderMain_VersionCommentSection_ctl01_CheckInComment']]
+
+DDL_ClickOK - Xpath - //input[@id='ctl00_PlaceHolderMain_ctl03_RptControls_btnOK'] - Object Repository Map Value: [Xpath, //input[@id='ctl00_PlaceHolderMain_ctl03_RptControls_btnOK']]
+
+DDL_Year - Xpath - //div[@id='DTiTaxYear_$containereditableRegion'] - Object Repository Map Value: [Xpath, //div[@id='DTiTaxYear_$containereditableRegion']]
+
+DDL_SelectYear - Xpath - //span[@class='suggestion-match-text'] - Object Repository Map Value: [Xpath, //span[@class='suggestion-match-text']]
+
+DDL_Reference - Xpath - //input[@id='DTiRef_894db15e-58e4-49fe-af59-86be4a4bc383_$TextField'] - Object Repository Map Value: [Xpath, //input[@id='DTiRef_894db15e-58e4-49fe-af59-86be4a4bc383_$TextField']]
+
+DDL_Description - Xpath - //textarea[@id='DTiDescription_d13f17de-9637-45a4-9778-d50d1c043693_$TextField'] - Object Repository Map Value: [Xpath, //textarea[@id='DTiDescription_d13f17de-9637-45a4-9778-d50d1c043693_$TextField']]
+
+DDL_DocumentType - Xpath - //select[@id='DocumentType_fa54d55b-7eb8-46c9-953b-43ee3039cc9a_$LookupField'] - Object Repository Map Value: [Xpath, //select[@id='DocumentType_fa54d55b-7eb8-46c9-953b-43ee3039cc9a_$LookupField']]
+
+DDL_Save - Xpath - //input[@id='ctl00_ctl47_g_9feb4599_38d3_404c_8e10_8507618953a3_ctl00_ctl02_ctl00_toolBarTbl_RightRptControls_ctl00_ctl00_diidIOSaveItem'] - Object Repository Map Value: [Xpath, //input[@id='ctl00_ctl47_g_9feb4599_38d3_404c_8e10_8507618953a3_ctl00_ctl02_ctl00_toolBarTbl_RightRptControls_ctl00_ctl00_diidIOSaveItem']]
+
+Team_AddUser - Xpath - //a[text()='Add User(s)'] - Object Repository Map Value: [Xpath, //a[text()='Add User(s)']]
+
+Team_EnterUsername - Xpath - //input[@data-ng-model='searchString'] - Object Repository Map Value: [Xpath, //input[@data-ng-model='searchString']]
+
+Team_selectUsername - Xpath - //div[@class='typeahead-search-results-container ng-scope'] - Object Repository Map Value: [Xpath, //div[@class='typeahead-search-results-container ng-scope']]
+
+Team_ClickNext - Xpath - //a[text()='Next'] - Object Repository Map Value: [Xpath, //a[text()='Next']]
+
+Team_SelectRole - Xpath - //select[@class='select-role left ng-pristine ng-valid'] - Object Repository Map Value: [Xpath, //select[@class='select-role left ng-pristine ng-valid']]
+
+Team_ClickAddusers - Xpath - //a[text()='Add User(s)'] - Object Repository Map Value: [Xpath, //a[text()='Add User(s)']]
+
+TechinalSupport_Link - Xpath - //a[text()='Technical Support'] - Object Repository Map Value: [Xpath, //a[text()='Technical Support']]
+
+TechnicalSupport_category - Xpath - //select[@id='ctl00_ctl46_g_864ff6b8_efba_4c74_97d8_148b4071ac26_ff181_ctl00_DropDownChoice'] - Object Repository Map Value: [Xpath, //select[@id='ctl00_ctl46_g_864ff6b8_efba_4c74_97d8_148b4071ac26_ff181_ctl00_DropDownChoice']]
+
+TechnicalSupport_Description - Xpath - //div[@id='ctl00_ctl46_g_864ff6b8_efba_4c74_97d8_148b4071ac26_ff101_ctl00_ctl00_TextField_inplacerte'] - Object Repository Map Value: [Xpath, //div[@id='ctl00_ctl46_g_864ff6b8_efba_4c74_97d8_148b4071ac26_ff101_ctl00_ctl00_TextField_inplacerte']]
+
+TechnicalSupport_OperatingSys - Xpath - //select[@title='UsersOperatingSystem Required Field'] - Object Repository Map Value: [Xpath, //select[@title='UsersOperatingSystem Required Field']]
+
+TechnicalSupport_BrowserProgram - Xpath - //select[@title='UserInternetBrowserProgram Required Field'] - Object Repository Map Value: [Xpath, //select[@title='UserInternetBrowserProgram Required Field']]
+
+TechnicalSupport_Submit - Xpath - //input[@id='ctl00_ctl46_g_864ff6b8_efba_4c74_97d8_148b4071ac26_savebutton2_ctl00_diidIOSaveItem'] - Object Repository Map Value: [Xpath, //input[@id='ctl00_ctl46_g_864ff6b8_efba_4c74_97d8_148b4071ac26_savebutton2_ctl00_diidIOSaveItem']]
+
+**************************************  Reading Test Data Sheet  *****************************************
+
+Test Data Sheet1 - TestData - Row Count: 1
+
+STAGECIR_URL - https://stagecir.deloitteresources.com/QvAJAXZfc/opendoc.htm?document=Public%2FGCI-CIR_DistributedFile_s3_vLoad%3DGLOBAL.qvw&host=QVS%40StageCluster - Test Data Map Value: https://stagecir.deloitteresources.com/QvAJAXZfc/opendoc.htm?document=Public%2FGCI-CIR_DistributedFile_s3_vLoad%3DGLOBAL.qvw&host=QVS%40StageCluster
+
+
+************************************  Reading Execution Sheet  *******************************************
+
+Execution - Smoke Sheet - Row Count: 8
+
+Access_Global - YES -  Execution Map Value: [BVT_Testcases, Access_Global, YES]
+
+LNIvalidation - NO -  Execution Map Value: [BVT_Testcases, LNIvalidation, NO]
+
+TestCase3 - NO -  Execution Map Value: [ClientCreation, TestCase3, NO]
+
+TestCase4 - NO -  Execution Map Value: [ClientCreation, TestCase4, NO]
+
+ReadRecursiveData - NO -  Execution Map Value: [ClientCreation, ReadRecursiveData, NO]
+
+testCase6 - NO -  Execution Map Value: [ClientCreation, testCase6, NO]
+
+testCase7 - NO -  Execution Map Value: [ClientCreation, testCase7, NO]
+
+testCase8 - NO -  Execution Map Value: [ClientCreation, testCase8, NO]
+
+***************************************  Test Execution Started  *****************************************
+
+Browser : ie
+Suite : Smoke
+Test Case : testCases.BVT_Testcases
+Method Name: Access_Global
+[TestNG] Running:
+  Command line suite
+
+Selected Locator Type: Xpath
+Selected Locator Value: //td[text() ='Key Metrics']
+Object visible
+Selected Locator Type: Xpath
+Selected Locator Value: //td[text() ='Key Metrics']
+Selected Locator Type: Xpath
+Selected Locator Value: //div[@class='QvGraph']/parent::div/preceding-sibling::div[@title = 'NSR by Function']
+Wait Until Method Exception Message: org.openqa.selenium.TimeoutException: Timed out after 120 seconds waiting for visibility of element located by By.xpath: //div[@class='QvGraph']/parent::div/preceding-sibling::div[@title = 'NSR by Function']
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'USHYDASANKAR2', ip: '192.168.1.100', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, ie.enableFullPageScreenshot=true, enablePersistentHover=true, ie.forceCreateProcessApi=false, ie.forceShellWindowsApi=false, pageLoadStrategy=normal, ignoreZoomSetting=true, ie.fileUploadDialogTimeout=3000, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:35742/, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 7de66012-2d65-4efa-8293-7e95144f5808
+Selected Locator Type: Xpath
+Selected Locator Value: //td[text() ='My Client']
+Selected Locator Type: Xpath
+Selected Locator Value: //div[@title ='NSR by Function']/following-sibling::div
+Wait Until Method Exception Message: org.openqa.selenium.TimeoutException: Timed out after 120 seconds waiting for visibility of element located by By.xpath: //div[@title ='NSR by Function']/following-sibling::div
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'USHYDASANKAR2', ip: '192.168.1.100', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, ie.enableFullPageScreenshot=true, enablePersistentHover=true, ie.forceCreateProcessApi=false, ie.forceShellWindowsApi=false, pageLoadStrategy=normal, ignoreZoomSetting=true, ie.fileUploadDialogTimeout=3000, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:35742/, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 7de66012-2d65-4efa-8293-7e95144f5808
+Selected Locator Type: Xpath
+Selected Locator Value: //td[text() ='Engagement']
+Object visible
+Selected Locator Type: Xpath
+Selected Locator Value: //td[text() ='Engagement']
+Selected Locator Type: Xpath
+Selected Locator Value: //div[@title='Current selections exceed the maximum amount that can be displayed in the table. Please use the filters on the left to narrow your selection.']
+Object visible
+Selected Locator Type: Xpath
+Selected Locator Value: //td[text()='Opportunity']
+Object visible
+Selected Locator Type: Xpath
+Selected Locator Value: //td[text()='Opportunity']
+Selected Locator Type: Xpath
+Selected Locator Value: //div[@title='Global Footprint by Region']/following-sibling::div
+Wait Until Method Exception Message: org.openqa.selenium.TimeoutException: Timed out after 120 seconds waiting for visibility of element located by By.xpath: //div[@title='Global Footprint by Region']/following-sibling::div
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'USHYDASANKAR2', ip: '192.168.1.100', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, ie.enableFullPageScreenshot=true, enablePersistentHover=true, ie.forceCreateProcessApi=false, ie.forceShellWindowsApi=false, pageLoadStrategy=normal, ignoreZoomSetting=true, ie.fileUploadDialogTimeout=3000, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:35742/, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 7de66012-2d65-4efa-8293-7e95144f5808
+
+===============================================
+Smoke
+Total tests run: 1, Failures: 0, Skips: 0
+===============================================
+
+Detailed report path for testcase : ./Detailed Reports/08Oct2016_160835/08Oct2016_161523_Access_Global.html
+
+Summary Report Path  :./Detailed Reports/08Oct2016_160835/SummaryReport_STAGECIR_08Oct2016_160835.html
+
+***************************************  Test Execution Completed  ***************************************

@@ -1,0 +1,140 @@
+**********************************************************************************************************
+Execution Log Report 
+Project Name : STAGECIR
+Suite : Smoke
+Date Timestamp Created: 15-Oct-2016 19:37:38
+**********************************************************************************************************
+
+Log Path  :./Logs/Logs_15Oct2016_193738.txt
+
+***********************************  Reading Object Repository Sheet  ************************************
+
+Object Repository Sheet1 - Row Count: 27
+
+Homepage_Keymetrics - Xpath - //td[text() ='Key Metrics']/ancestor::table - Object Repository Map Value: [Xpath, //td[text() ='Key Metrics']/ancestor::table]
+
+Keymetrics_NSRbyfunction - Xpath - //div[@class='QvGraph']/parent::div/preceding-sibling::div[@title = 'NSR by Function'] - Object Repository Map Value: [Xpath, //div[@class='QvGraph']/parent::div/preceding-sibling::div[@title = 'NSR by Function']]
+
+Myclient - Xpath - //td[text() ='My Client']/ancestor::table - Object Repository Map Value: [Xpath, //td[text() ='My Client']/ancestor::table]
+
+Myclient_NSRbyfunction - Xpath - //div[@title ='NSR by Function']/following-sibling::div - Object Repository Map Value: [Xpath, //div[@title ='NSR by Function']/following-sibling::div]
+
+Engagement - Xpath - //td[text() ='Engagement']/ancestor::table - Object Repository Map Value: [Xpath, //td[text() ='Engagement']/ancestor::table]
+
+Engagement_NSRcolumn - Xpath - //div[@title='Net Service Revenue'] - Object Repository Map Value: [Xpath, //div[@title='Net Service Revenue']]
+
+Engagement_Flex_Errormessage - Xpath - //div[@title='Current selections exceed the maximum amount that can be displayed in the table. Please use the filters on the left to narrow your selection.'] - Object Repository Map Value: [Xpath, //div[@title='Current selections exceed the maximum amount that can be displayed in the table. Please use the filters on the left to narrow your selection.']]
+
+Opportunity - Xpath - //td[text()='Opportunity']/ancestor::table/parent::div/parent::div - Object Repository Map Value: [Xpath, //td[text()='Opportunity']/ancestor::table/parent::div/parent::div]
+
+Opportunity_GlobalFootprint - Xpath - //div[@title='Opportunity Pipeline'] - Object Repository Map Value: [Xpath, //div[@title='Opportunity Pipeline']]
+
+Countrysrvicesgroups - Xpath - //td[text()='Country Services Groups']/ancestor::table - Object Repository Map Value: [Xpath, //td[text()='Country Services Groups']/ancestor::table]
+
+Countrysrvicesgroups_NSRGlobalFootprint - Xpath - //div[text()='NSR Global Footprint by Region'] - Object Repository Map Value: [Xpath, //div[text()='NSR Global Footprint by Region']]
+
+Whitespace - Xpath - //td[text()='Whitespace']/ancestor::table - Object Repository Map Value: [Xpath, //td[text()='Whitespace']/ancestor::table]
+
+Whitespace_NSRbyFunction - Xpath - //div[text()='NSR by Function'] - Object Repository Map Value: [Xpath, //div[text()='NSR by Function']]
+
+Detailed - Xpath - //td[text()='Detailed']/ancestor::table - Object Repository Map Value: [Xpath, //td[text()='Detailed']/ancestor::table]
+
+Detailed_Revenueplan - Xpath - //td[text()='Revenue Plan']/ancestor::table - Object Repository Map Value: [Xpath, //td[text()='Revenue Plan']/ancestor::table]
+
+ -  -  - Object Repository Map Value: [, ]
+
+ -  -  - Object Repository Map Value: [, ]
+
+ -  -  - Object Repository Map Value: [, ]
+
+ -  -  - Object Repository Map Value: [, ]
+
+ -  -  - Object Repository Map Value: [, ]
+
+ -  -  - Object Repository Map Value: [, ]
+
+ -  -  - Object Repository Map Value: [, ]
+
+ -  -  - Object Repository Map Value: [, ]
+
+ -  -  - Object Repository Map Value: [, ]
+
+ -  -  - Object Repository Map Value: [, ]
+
+ -  -  - Object Repository Map Value: [, ]
+
+ -  -  - Object Repository Map Value: [, ]
+
+**************************************  Reading Test Data Sheet  *****************************************
+
+Test Data Sheet1 - TestData - Row Count: 2
+
+STAGECIR_URL_Global - https://stagecir.deloitteresources.com/QvAJAXZfc/opendoc.htm?document=Public%2FGCI-CIR_DistributedFile_s3_vLoad%3DGLOBAL.qvw&host=QVS%40StageCluster - Test Data Map Value: https://stagecir.deloitteresources.com/QvAJAXZfc/opendoc.htm?document=Public%2FGCI-CIR_DistributedFile_s3_vLoad%3DGLOBAL.qvw&host=QVS%40StageCluster
+
+STAGECIR_URL_LCSP - https://stagecir.deloitteresources.com/QvAJAXZfc/opendoc.htm?document=Public%2FGCI-CIR_DistributedFile_s3_vLoad%3DLCSP.qvw&host=QVS%40StageCluster - Test Data Map Value: https://stagecir.deloitteresources.com/QvAJAXZfc/opendoc.htm?document=Public%2FGCI-CIR_DistributedFile_s3_vLoad%3DLCSP.qvw&host=QVS%40StageCluster
+
+
+************************************  Reading Execution Sheet  *******************************************
+
+Execution - Smoke Sheet - Row Count: 8
+
+Access_Global - NO -  Execution Map Value: [BVT_Testcases, Access_Global, NO]
+
+Access_LCSP - YES -  Execution Map Value: [BVT_Testcases, Access_LCSP, YES]
+
+TestCase3 - NO -  Execution Map Value: [ClientCreation, TestCase3, NO]
+
+TestCase4 - NO -  Execution Map Value: [ClientCreation, TestCase4, NO]
+
+ReadRecursiveData - NO -  Execution Map Value: [ClientCreation, ReadRecursiveData, NO]
+
+testCase6 - NO -  Execution Map Value: [ClientCreation, testCase6, NO]
+
+testCase7 - NO -  Execution Map Value: [ClientCreation, testCase7, NO]
+
+testCase8 - NO -  Execution Map Value: [ClientCreation, testCase8, NO]
+
+***************************************  Test Execution Started  *****************************************
+
+Browser : ie
+Suite : Smoke
+Test Case : testCases.BVT_Testcases
+Method Name: Access_LCSP
+[TestNG] Running:
+  Command line suite
+
+Selected Locator Type: Xpath
+Selected Locator Value: //td[text() ='My Client']/ancestor::table
+Object visible
+Selected Locator Type: Xpath
+Selected Locator Value: //td[text() ='My Client']/ancestor::table
+Selected Locator Type: Xpath
+Selected Locator Value: //div[@title ='NSR by Function']/following-sibling::div
+Object visible
+Selected Locator Type: Xpath
+Selected Locator Value: //td[text() ='Engagement']/ancestor::table
+Object visible
+Selected Locator Type: Xpath
+Selected Locator Value: //td[text() ='Engagement']/ancestor::table
+Selected Locator Type: Xpath
+Selected Locator Value: //div[@title='Net Service Revenue']
+Object visible
+Selected Locator Type: Xpath
+Selected Locator Value: //td[text()='Opportunity']/ancestor::table/parent::div/parent::div
+Object visible
+Selected Locator Type: Xpath
+Selected Locator Value: //td[text()='Opportunity']/ancestor::table/parent::div/parent::div
+Selected Locator Type: Xpath
+Selected Locator Value: //div[@title='Opportunity Pipeline']
+Object visible
+
+===============================================
+Smoke
+Total tests run: 1, Failures: 0, Skips: 0
+===============================================
+
+Detailed report path for testcase : ./Detailed Reports/15Oct2016_193739/15Oct2016_193823_Access_LCSP.html
+
+Summary Report Path  :./Detailed Reports/15Oct2016_193739/SummaryReport_STAGECIR_15Oct2016_193739.html
+
+***************************************  Test Execution Completed  ***************************************

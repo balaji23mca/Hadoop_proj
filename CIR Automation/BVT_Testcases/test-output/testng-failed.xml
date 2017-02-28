@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Smoke]">
+  <parameter name="browsername" value="ie"/>
+  <test name="BVT_Testcases(failed)">
+    <parameter name="browsername" value="ie"/>
+    <classes>
+      <class name="testCases.BVT_Testcases">
+        <methods>
+          <include name="Access_LCSP"/>
+          <include name="startBrowser"/>
+          <include name="stopBrowser"/>
+        </methods>
+      </class> <!-- testCases.BVT_Testcases -->
+    </classes>
+  </test> <!-- BVT_Testcases(failed) -->
+</suite> <!-- Failed suite [Smoke] -->
