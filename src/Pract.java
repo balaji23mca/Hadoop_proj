@@ -12,14 +12,14 @@ public class Pract {
 	
 	public static void main(String args[]){
 		samp("hai","two","three");
-//		String[] a = {"a","b"};
-//		HashMap<String, String> m = new HashMap<String, String>(){{
-//			put("z","a");
-//			put("y","b");
-//		}
-//	};
+		String[] a = {"a","b"};
+		HashMap<String, String> m = new HashMap<String, String>(){{
+			put("z","a");
+			put("y","b");
+		}
+	};
 	
-//	System.out.println(m.keySet());
+	System.out.println(m.keySet());
 	}
 	
 
